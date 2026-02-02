@@ -1,3 +1,17 @@
+## DevOps Internship(PearlsThoughts): Strapi Local Setup
+
+## Summary
+- Ran Strapi locally 
+- Started admin panel
+- Created sample content type (Article)
+- Renamed app to strapiapp
+- Documented steps in README.md
+
+## Proof
+- Loom video attached : 
+
+
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
